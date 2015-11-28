@@ -2,8 +2,8 @@
 
 # At first some Definitions:
 
-ONLINE_SSID='Freifunk'
-OFFLINE_PREFIX='FF_OFFLINE_' # Use something short to leave space for the nodename
+ONLINE_SSID='nord.freifunk.net'
+OFFLINE_PREFIX='OFFLINE_' # Use something short to leave space for the nodename
 
 UPPER_LIMIT='55' #Above this limit the online SSID will be used
 LOWER_LIMIT='45' #Below this limit the offline SSID will be used
